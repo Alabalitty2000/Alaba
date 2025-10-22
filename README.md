@@ -37,7 +37,7 @@ project-root/
 1. **Clone or download** the project repository:
    ```bash
    git clone <repository-url>
-````
+
 
 2. **Open the project folder:**
 
